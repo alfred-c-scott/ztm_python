@@ -13,7 +13,7 @@ if 5 in tuple_0:
     print(tuple_0[5])
 
 # because tuples are immutable they can be used as
-# a key ina dictionary
+# a key in a dictionary
 
 my_dictionary = {
     'a': ['a', 'b', 'c'],
