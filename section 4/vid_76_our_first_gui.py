@@ -9,6 +9,8 @@ picture = [
     [0,0,0,1,0,0,0],
  ]
 
+
+
 # This is my solution, but it required using a function, and we have not gone over functions yet
 def print_char(x):
     if x == 0:
