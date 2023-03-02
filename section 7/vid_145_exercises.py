@@ -8,6 +8,7 @@ def cap(item):
     return item.capitalize()
 
 print(list(map(cap, my_pets)))
+print(my_pets)
 
 #2 Zip the 2 lists into a list of tuples, but sort the numbers from lowest to highest.
 my_strings = ['a', 'b', 'c', 'd', 'e']
